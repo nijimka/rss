@@ -5,7 +5,7 @@
         <description>test test</description>
         <link>https://test.com</link>
         <item>
-            <title>Article For MONEY</title>
+            <title>OFF MONEYTIZATION</title>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
                 laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
@@ -40,20 +40,9 @@
     <img src="https://habrastorage.org/webt/l-/uo/us/l-uousld6mrwo4yii4op5atiefa.png">
     <figcaption>ыфвафавы <a href="https://habr.com/post/420439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=420439#habracut">Читать дальше →</a> ывфаыва</figcaption>
    </figure><img src="https://vgif.ru/gifs/140/vgif-ru-16812.gif">]]></description>
-            <link>https://test.com/test12dfffdssadffsdkssss22skjlsfdhdfsdffds</link>
-            <guid isPermaLink="false">5848vjfknjkvlksbkjskhldfsjhvbmcxbfkdsbrkwherkhfvhkjfdhfjkhf</guid>
+            <link>https://test.com/test12dfffdssadffsdkssss22skjlsfdhdfsdffds23fdsfdsfds</link>
+            <guid isPermaLink="false">5848vjfknjkvlksbkjskhasdasvxcvsdfgfgdgertretf</guid>
             <pubDate>Wed, 31 Aug 2018 13:26:50 +0300</pubDate>
         </item>
-        <item>
-            <title>ARTICLE WITHOUT MONEY</title>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate]]>
-            </description>
-            <link>https://test.com/test12dfffdssadffsdkssss22skjlsfdhdfsdffds</link>
-            <guid isPermaLink="false">testguid1234567890123546789</guid>
-            <pubDate>Wed, 31 Aug 2018 13:37:40 +0300</pubDate>
-        </item>
-
     </channel>
 </rss>
